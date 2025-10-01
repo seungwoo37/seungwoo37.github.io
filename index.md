@@ -10,7 +10,7 @@ header:
       url: "/sample/"
 excerpt: " "
 intro:
-  - excerpt: ""
+  - excerpt: "!"
 ---
 
 {% include feature_row id="intro" type="center" %}
